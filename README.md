@@ -1,2 +1,3 @@
 # LearnGit
 This is my first Git repositories.....
+Auther - Himanshu pandey
